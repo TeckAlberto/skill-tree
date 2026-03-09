@@ -1,0 +1,8 @@
+{
+  "extension": ["ts"],
+  "spec": "tests/**/*.test.ts",
+  "require": "tsx",
+  "exit": true,
+  "recursive": true,
+  "timeout": 5000
+}
